@@ -1,0 +1,50 @@
+*{
+    
+    font-family: sans-serif;
+    font-size: large;
+    
+}
+
+td  {
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 9.7vw;
+    margin-left: 1vw;
+    text-align: end;
+}
+
+TABLE{
+    border-collapse: collapse;
+    margin-left: 25vw;
+    margin-top: 2vh;
+   
+    
+}
+
+th{
+    background-color: rgb(169, 238, 169);
+    border: 5px solid black;
+    font-weight: bold;
+    font-size: large;
+
+}
+
+.form{
+
+    margin-top: 2vh;
+    margin-left: 25vw;
+    
+
+}
+
+h2{
+    display: flex;
+    margin-top: 2vh;
+    margin-left: 1vw;
+    justify-content: center;
+}
+
+td:last-child{
+
+    font-weight: bold;
+}
